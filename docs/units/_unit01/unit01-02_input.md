@@ -15,6 +15,6 @@ Kartieren mit QGIS (Platzhaltervideo)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rpkeBZHrXVQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </p>
 
-## Literatur, Verweise, etc...?
+## Zusatzmaterial
 
-Hier könnte man beispielsweise Links auf Inhalte einfügen, die in den Videos erwähnt werden, Verweise auf Primärliteratur, Bücher, Programme etc.
+[[https://moc.online.uni-marburg.de/doku.php?id=courses:bsc:methoden-geoinformatik:reader:mg-rd-01 | (Geographischer Raum)]]
