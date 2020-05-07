@@ -46,21 +46,41 @@ Abbildung 01-05: Digitales Geländemodell der Fränkischen Schweiz und angrenzen
 
 Diskrete Geobjekte sind durch eine klare räumliche Abgrenzbarkeit gekennzeichnet, während räumlich kontinuierliche Ausprägungen zunächst keine eindeutig objektbezogene räumliche Abgrenzbarkeit aufweisen. Diese Regel ist abhängig von der Beobachtungs- oder Interessenskala. Hinzu kommt, dass die binäre Logik computergerechter Datenverarbeitung eine Begrenzung der Informationen notwendig macht. In der Praxis der Geoinformationssysteme werden daher auch kontinuierliche Felder wie räumlich abgegrenzte Objekte behandelt also – unter Berücksichtigung einer für die Fragestellung geeigneten Skala – in diskrete Raumeinheiten aufgeteilt. Der wesentliche Unterschied zu dem Konzept der diskreten Objekte im leeren Raum ist, dass diese mit bekannter Position in einem ansonsten leeren Raum existieren, während in diskrete Objekte zerlegte Kontinua diesen Raum lückenlos und überschneidungsfrei mit ihren Eigenschaften abbilden und beschreiben.
 
-## Abstraktion für Einsteiger
+Trotz der bisherigen Erläuterungen ist die Beantwortung der Frage „Was sind geographische Daten bzw. Geodaten?“ nicht richtig greifbar. Bislang erscheint die Abstraktion willkürlich und nicht nachvollziehbar zu sein. <!--more-->
 
-Betrachten Sie das unten stehende Luftbild (Abb. 01-07) und überlegen Sie, wie Sie die Repräsentation dieses Raumes vornehmen würden. Erfassen Sie folgende Merkmale:
+Geodaten oder geographische Daten (singl. Datum) liefern räumlich fixierte, maschinenlesbare Konstrukte aus Zeichen, Bildern oder Funktionen die mit entsprechenden Interpretationsregeln zu Informationen werden. Da Daten Interpretationsvorschriften benötigen, um zu Informationen zu werden, müssen wir dieses Wissen nur noch mit dem Ziel, eine geographische Repräsentation der Welt durchzuführen, verbinden.
+
+Die zentrale Fragestellung lautet: Was ist spezifisch geographisch und wie können wir diese geographische Ableitungen der Wirklichkeit durchführen? Ein typisches Beispiel für Geodaten ist in folgender Aussage kodiert:
+
+“**Die Temperatur am Havanna Airport betrug am Donnerstag, den 17.09.2009 um 08:00 lokaler Zeit 23.0°C. Die Koordinaten lauten: 22° 59′ 21″ N, 82° 24′ 33″ W, 64 m ü. MSL.**”
+
+Analysieren wir diese Aussage so finden wir alle wesentlichen Elemente der geographischen Repräsentation eines Echtweltobjekts. Die Aussage verbindet Raum (Koordinaten und Höhe) mit Zeit (Datum/Zeitangabe) und der Eigenschaft bzw. dem Attribut der Lufttemperatur. Zusätzlich sind dem derart festgelegten Ort weitere Eigenschaften zugeordnet: Havanna und Airport. Aus dieser Aussage kann schließlich folgendes geographisches Datum gebildet werden:
+
+**22° 59′ 21″ N; 82° 24′ 33″ W; 64 m ü. MSL; 8.00 Uhr LT; Havanna Airport; 23.0 °C**
+
+Geographische Daten verbinden somit räumlich eindeutig verortete Objekte mit mindestens einer Merkmalsausprägung. Diese „Daten-Primitive“ können natürlich beliebig komplex werden und darüber hinaus direkt oder auch indirekt zueinander in Beziehung gesetzt bzw. voneinander abgeleitet werden. Auch scheinbar nicht geographische Aussagen wie:
+
+„Der K2 hat den schwersten Normalweg eines 8000er Gipfels“
+
+können in ein geographisches Datum überführt werden. Hierzu sind weitere Kenntnisse bzw. Dekodierungsvorschriften notwendig. So muss man wissen dass K2 der international bekanntere Namen des *Lambha Pahar*, des zweithöchsten Berges der Erde ist. Weiterhin muss bekannt sein, welche geographischen Koordinaten seinen Gipfel repräsentieren und dass „Normalweg“ im Alpinistenjargon der „am häufigsten begangene und in der Regel einfachste Aufstieg“ bedeutet. Aus dieser Interpretation wird somit das geographische Datum:
+
+** 35° 53′ 0″ N; 76° 31′ 0″ O; Lambha Pahar; K2; >8000 m ü. MSL; schwerster Normalweg 8000+**
+
+<!--## Abstraktion für Einsteiger--->
+
+<!--Betrachten Sie das unten stehende Luftbild (Abb. 01-07) und überlegen Sie, wie Sie die Repräsentation dieses Raumes vornehmen würden. Erfassen Sie folgende Merkmale:--->
 
 
-*     Landnutzung in Form von Landnutzungsarten
+<!--*     Landnutzung in Form von Landnutzungsarten
 *     Straßennetz
 *     Bebauungsfläche
 
-<html>
+<!--<html>
  <a href="http://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" title="Aerial photo of the rockgarden *Sanspareil* (Fränkische Schweiz) as an example of a cutout of reality that has to be represented by geoinformation means.">  <img src="http://upload.wikimedia.org/wikipedia/commons/2/2c/Sanspareil_Luftbild_West.jpg" width="50%"  alt="Aerial photo of the rockgarden *Sanspareil* (Fränkische Schweiz) as an example of a cutout of reality that has to be represented by geoinformation means">  </a>
- </html> 
+ </html> --->
  
-*Abbildung 01-07: Luftbild des Felsengarten Sanspareil (Fränkische Schweiz) als Beispiel eines zu repäsentierenden Wirklichkeitsauschnitts. Es wird vernachlässigt, dass ein Luftbild selbst bereits eine Repräsentation der Wahrnehmung des Fotografen ist (Presse03 2009)*
+<!--*Abbildung 01-07: Luftbild des Felsengarten Sanspareil (Fränkische Schweiz) als Beispiel eines zu repäsentierenden Wirklichkeitsauschnitts. Es wird vernachlässigt, dass ein Luftbild selbst bereits eine Repräsentation der Wahrnehmung des Fotografen ist (Presse03 2009)*--->
 
-### Bearbeiten Sie…
-Versuchen Sie das Bild in für Sie wesentliche Kategorien zu abstrahieren und identifizieren Sie hierzu Geoobjekte die ihnen ausreichend ähnlich vorkommen.  Schreiben Sie sich in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.
+<!--### Bearbeiten Sie…
+Versuchen Sie das Bild in für Sie wesentliche Kategorien zu abstrahieren und identifizieren Sie hierzu Geoobjekte die ihnen ausreichend ähnlich vorkommen.  Schreiben Sie sich in Stichpunkten die nötigen Abstraktionsschritte und Ihre Vorgehensweise auf.--->
 
