@@ -68,12 +68,3 @@ Wer geographische Fachkompetenz erwerben will, muss die genannten Aspekte berüc
 
 Definieren wir also Geographie wie oben so benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
 
-## Bearbeiten Sie…
-Versuchen Sie einzuordnen welche Relevanz GIS in der universitären Ausbildung und Forschungsarbeit im Fach Geographie hat. Besuchen Sie hierzu eine Auswahl von geographischen Instituten im Internet.
-
----
-* Versuchen Sie die Bedeutung von GI im Rahmen der oben angeführten Vorüberlegungen konkret für ihren Studiengang  und der angebotenen Kurse einzuordnen.
-* Schauen Sie stichprobenartig wie Raum und Zeit in den Veröffentlichungen der Wissenschaftlerinnen (Berufsgeographinnen) aufgefasst wird. Welche GI-relevanten Inhalte können Sie identifizieren?
-* Wie ist Ihre Wahrnehmung der Integration von GI-Methodik im eigenen Fachbereich?
-* Benennen Sie einige geographische Fragen, die ohne GI-Methoden auskommen.
----
