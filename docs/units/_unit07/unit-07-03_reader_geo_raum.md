@@ -64,7 +64,8 @@ Geographische Daten verbinden somit räumlich eindeutig verortete Objekte mit mi
 
 können in ein geographisches Datum überführt werden. Hierzu sind weitere Kenntnisse bzw. Dekodierungsvorschriften notwendig. So muss man wissen dass K2 der international bekanntere Namen des *Lambha Pahar*, des zweithöchsten Berges der Erde ist. Weiterhin muss bekannt sein, welche geographischen Koordinaten seinen Gipfel repräsentieren und dass „Normalweg“ im Alpinistenjargon der „am häufigsten begangene und in der Regel einfachste Aufstieg“ bedeutet. Aus dieser Interpretation wird somit das geographische Datum:
 
-** 35° 53′ 0″ N; 76° 31′ 0″ O; Lambha Pahar; K2; >8000 m ü. MSL; schwerster Normalweg 8000+**
+**35° 53′ 0″ N; 76° 31′ 0″ O; Lambha Pahar; K2; >8000 m ü. MSL; schwerster Normalweg 8000+**
+
 
 <!--## Abstraktion für Einsteiger--->
 
