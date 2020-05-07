@@ -64,7 +64,7 @@ Wer geographische Fachkompetenz erwerben will, muss die genannten Aspekte berüc
 
 
 
-## Geomedien und -ethoden in der universitären Geographie
+## Geomedien und -methoden in der universitären Geographie
 
 Definieren wir also Geographie wie oben so sind benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
 

@@ -5,7 +5,9 @@ toc_label: In this worksheet
 ---
 
 
-Wie setzen wir in der Geographie am einfachsten und effizientesten die Abstraktion unserer Weltsicht um? Prinzipiell kann die geographische Repräsentation von Raum mit Hilfe zweier unterschiedlicher Konzepte durchgeführt werden <!--more-->: Zum einen können eindeutige Objekte identifiziert werden, sogenannte diskrete Geoobjekte, dem gegenüber steht das Konzept der kontinuierlichen Räume oder Felder. Im Prinzip sind diskrete (Geo-) Objekte alles, was auf irgendeine Weise abgrenzbar und zählbar ist. Also z.B. Autos, Häuser, Fußgänger, Blumen, Bären, Fußballplätze und so weiter. Felder hingegen beschreiben kontinuierliche, sich raum-zeitlich verändernde Attributwerte oder Merkmalsausprägungen von Räumen (zb. Lufttemperatur, Bevölkerung / Hektar).
+Wie setzen wir in der Geographie am einfachsten und effizientesten die Abstraktion unserer Weltsicht um? Prinzipiell kann die geographische Repräsentation von Raum mit Hilfe zweier unterschiedlicher Konzepte durchgeführt werden: Zum einen können eindeutige Objekte identifiziert werden, sogenannte diskrete Geoobjekte, dem gegenüber steht das Konzept der kontinuierlichen Räume oder Felder  <!--more-->. 
+
+Im Prinzip sind diskrete (Geo-) Objekte alles, was auf irgendeine Weise abgrenzbar und zählbar ist. Also z.B. Autos, Häuser, Fußgänger, Blumen, Bären, Fußballplätze und so weiter. Felder hingegen beschreiben kontinuierliche, sich raum-zeitlich verändernde Attributwerte oder Merkmalsausprägungen von Räumen (zb. Lufttemperatur, Bevölkerung / Hektar).
 
 
 
