@@ -4,7 +4,7 @@ toc: true
 toc_label: In this worksheet
 ---
 
-Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung der Erde bzw. Erdoberfläche und ihrem Verständnis und ihrer Beschreibung verbunden sind sind für viele Menschen sehr unscharf. <!--more--> Die professionelle Beschreibung der Erde, also wie kommt es zu einer nachvollziehbaren Abstraktion einer kognitiven Welterfahrung steht im Fokus einer erkenntnisgeleiteten Geographie. Für die solide Interpretation von Geographischen Medien oder Informationen sollten Sie zunächst einige Grundkonzepte zur Wahrnehmung und Abstraktion sowie zur Kommunikation geographischer Weltebeschreibung kennen und verstanden haben. Gerade die formale Beschreibung von Raum mit Hilfe kartograpischer Konzepte sind ein guter Startpunkt.
+Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung der Erde bzw. Erdoberfläche und ihrem Verständnis und ihrer Beschreibung verbunden sind, sind für viele Menschen sehr unscharf. <!--more--> Die professionelle Beschreibung der Erde, also wie kommt es zu einer nachvollziehbaren Abstraktion einer kognitiven Welterfahrung, steht im Fokus einer erkenntnisgeleiteten Geographie. Für die solide Interpretation von geographischen Medien oder Informationen sollten Sie zunächst einige Grundkonzepte zur Wahrnehmung und Abstraktion sowie zur Kommunikation geographischer Weltebeschreibung kennen und verstanden haben. Gerade die formale Beschreibung von Raum mit Hilfe kartograpischer Konzepte sind ein guter Startpunkt.
 
 ## Kartographie als Bild der Erde
 
@@ -37,7 +37,7 @@ Wenn wir uns in unserer Alltagswelt umschauen, stellen wir fest, dass – gleich
 
 Trotz einer durchaus kontroversen und uneinheitlichen Diskussion dieser Begriffe darf angenommen werden, dass der Umgang mit globalen Daten-, Informations- und Wissensnetzen gerade für eine Disziplin wie die der Geographie von elementarer Bedeutung ist. Die ständige Zunahme neuer Sensoren in Raum und Zeit, die hoch aufgelöste und weltweit verfügbare Daten liefern, erzwingt den organisierten und strukturierten Umgang mit selbigen. Gleichzeitig ist durch die Existenz der Daten die Notwendigkeit gegeben diese möglichst zeitnah zu filtern, zu analysieren und zu interpretieren, diese also in Informationen zu wandeln.
 
-Vor diesem Hintergrund bekommt der Begriff Information eine neue Dimension. Um zu Informationen zu gelangen, genügt es keinesfalls in Daten zu ertrinken. Wir benötigen Interpretationsvorschriften und Konzepte Daten zu erhben, Daten in Informationen zu wandeln und daraus oder Wissen und Erkenntnis abzuleiten.
+Vor diesem Hintergrund bekommt der Begriff Information eine neue Dimension. Um zu Informationen zu gelangen, genügt es keinesfalls in Daten zu ertrinken. Wir benötigen Interpretationsvorschriften und Konzepte Daten zu erheben, Daten in Informationen zu wandeln und daraus Wissen und Erkenntnis abzuleiten.
 
 Geographische oder räumliche Repräsentationen sind die Grundlage für eine wissenschaftliche Interpretation von raum-zeitlichen Aspekten der Echtwelt. In der Wissenschaft ist es üblich, dass hierfür als gesichert geltende Gesetze verwendet werden. In dre Geographie ist am häufigsten das von Waldo Tobler formulierte erste Gesetz der Geographie: “Everything is related to everything else, but near things are more related than distant things” (Tobler 1970). So sehr Toblers Gestz als Grundlage der räumlicher Abhägigkeiten und Autokorrelationen gilt so wenig beschrteibt es andere räumliche Wirkungsmechanismen. So zeigt etwa Benno Werlen in seinem handlungszentrierten Ansatz, dass nicht nur reale Nachbarschaftsbeziehungen von Objekten oder Merkmalsausprägungen Raumkonstrukte ermöglichen, sondern Räume eben auch durch z.B. handelnde Menschen, die nicht notwendigerweise in räumlicher Nachbarschaft agieren, sozial konstruiert werden können (vgl. z.B. Werlen 1993).
 
@@ -56,17 +56,17 @@ Die Zusammenhänge der realen Welt sind in der Regel so komplex, dass sie nur in
 
 Die Wahrnehmung und Interpretation der „realen Welt“ sowie die Entwicklung geeigneter Strategien für den praxistauglichen Umgang mit dieser Welt, findet mit dem Hilfsmittel der Abstraktion und Kommunikation (= Modellbildung) statt (vgl. Abb. 01-02). Die eingesetzten Strategien der Abstraktion sind widerstreitend und vielfältig, da Kontextabhängigkeit und Zielsetzung des Abstrahierenden einen wesentlichen Einfluss auf die Resultate ausüben (“Methode Götterblick” s. a. Eckmüllner 2007).
 
-Das heißt, die gewählte Abstraktion der räumlichen Welt ist, wissenschaftlich betrachtet, bestenfalls nachvollziehbar und transparent aber niemals wahr. Auch garantiert die logische Validität der Abstraktion weder die Gültigkeit abgeleiteter noch allgemeiner Aussagen. Ob das konstruierte Modell der Wirklichkeit entspricht, lässt sich daher nicht beweisen. Bestenfalls lässt sich die Gültigkeit für den definierten Zweck nachweisen, nie aber Wahrheit (Bossel 2004).
+Das heißt, die gewählte Abstraktion der räumlichen Welt ist, wissenschaftlich betrachtet, bestenfalls nachvollziehbar und transparent, aber niemals wahr. Auch garantiert die logische Validität der Abstraktion weder die Gültigkeit abgeleiteter noch allgemeiner Aussagen. Ob das konstruierte Modell der Wirklichkeit entspricht, lässt sich daher nicht beweisen. Bestenfalls lässt sich die Gültigkeit für den definierten Zweck nachweisen, nie aber die Wahrheit (Bossel 2004).
 
 Trotz dieser erheblichen Einschränkungen werden Repräsentationen des Raumes permanent und dringend benötigt, um nachvollziehbar räumliche Informationen zu dokumentieren, zu analysieren und zu kommunizieren. Oft sind mehrere oder variable Repräsentationen notwendig, um die Realität ausreichend genau abzubilden.
 
-Wer geographische Fachkompetenz erwerben will, muss die genannten Aspekte berücksichtigen. Wissenschaftstheoretisch kann  Geographie durchaus als ein Methodenverbund, dessen Ziel es ist raum-zeitliche Zusammenhänge nachvollziehbar und reproduzierbar zu konstruieren,  begriffen werden.
+Wer geographische Fachkompetenz erwerben will, muss die genannten Aspekte berücksichtigen. Wissenschaftstheoretisch kann Geographie durchaus als ein Methodenverbund, dessen Ziel es ist raum-zeitliche Zusammenhänge nachvollziehbar und reproduzierbar zu konstruieren, begriffen werden.
 
 
 
 ## Geomedien und -methoden in der universitären Geographie
 
-Definieren wir also Geographie wie oben so sind benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
+Definieren wir also Geographie wie oben so benötigen wir Werkzeuge, die nach den Regeln der Informationsverarbeitung zu bedienen und zu nutzen sind. Wir müssen also einen Weg finden, um geographisch widerstreitende Raumrepräsentationen auf nachvollziehbare und reproduzierbare Weise zu definieren, zu integrieren und natürlich zu kommunizieren.
 
 ## Bearbeiten Sie…
 Versuchen Sie einzuordnen welche Relevanz GIS in der universitären Ausbildung und Forschungsarbeit im Fach Geographie hat. Besuchen Sie hierzu eine Auswahl von geographischen Instituten im Internet.
