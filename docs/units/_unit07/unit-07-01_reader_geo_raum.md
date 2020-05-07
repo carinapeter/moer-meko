@@ -1,5 +1,5 @@
 ---
-title: Sitzung 2 - Raum braucht einen Geltungsbereich
+title: Raum braucht einen Geltungsbereich
 toc: true
 toc_label: In this worksheet
 ---
