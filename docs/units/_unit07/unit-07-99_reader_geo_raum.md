@@ -1,7 +1,7 @@
 ---
 title: Referenzen
 toc: true
-toc_label: Inhalt
+toc_label: Auf dieser Seite
 ---
 Auf dieser Seite finden sie die Referenz auf die verwendeten Quellen.<!--more-->
 

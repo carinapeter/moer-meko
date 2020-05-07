@@ -1,7 +1,7 @@
 ---
 title: Geographie, räumliche Interpretation der Welt
 toc: true
-toc_label: In this worksheet
+toc_label: Auf dieser Seite
 ---
 
 Die Begriffe “Geographie” und “geographisch”, die mit der Wahrnehmung der Erde bzw. Erdoberfläche und ihrem Verständnis und ihrer Beschreibung verbunden sind, sind für viele Menschen sehr unscharf. <!--more--> Die professionelle Beschreibung der Erde, also wie kommt es zu einer nachvollziehbaren Abstraktion einer kognitiven Welterfahrung, steht im Fokus einer erkenntnisgeleiteten Geographie. Für die solide Interpretation von geographischen Medien oder Informationen sollten Sie zunächst einige Grundkonzepte zur Wahrnehmung und Abstraktion sowie zur Kommunikation geographischer Weltebeschreibung kennen und verstanden haben. Gerade die formale Beschreibung von Raum mit Hilfe kartograpischer Konzepte sind ein guter Startpunkt.
