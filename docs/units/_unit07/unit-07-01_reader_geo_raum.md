@@ -19,12 +19,5 @@ Fragestellungen, die räumliche (und zeitliche)  Aspekte beinhalten, werden oft 
 
 Viele unserer alltäglichen Handlungen sind offenkundig von Problemlösungsstrategien abhängig, die geographische Kompetenzen erfordern. 
 
-## Lernziele - Raum braucht einen Geltungsbereich
-
-
-
-  * Reflexion der alltäglichen Verwendung des Raumbegriffs
-  * Einführung in Begrifflichkeiten und Definitionen
-  * Einführung in die Kommunikationskonzepte von GI in der Geographie
  
 
