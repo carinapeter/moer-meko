@@ -1,7 +1,10 @@
 ---
-title: Übersicht
+title: Überblick
+header:
+  image: /assets/images/02-splash.jpg
+  image_description: "Blick auf das Marburger Schloss und die Oberstadt."
+  caption: "Foto: S.Egli / CC0"
 ---
-
 Sie lernen Raumabstraktionen kennen und erforschen Karten indem Sie Darstellung und Inhalt beschreiben, interpretieren, reflektieren und selbst erstellen.
 
 <!--more-->
