@@ -1,6 +1,9 @@
 ---
-title: Inhalt
-toc: true
+title: Überblick
+header:
+  image: /assets/images/DE_Marburg_TripWE_003HDR.jpg
+  image_description: "Blick auf das Marburger Schloss und die Oberstadt."
+  caption: "Foto: S.Egli / CC0"
 ---
 
 {% include video id="C0V2zejaTz4" provider="youtube" %}
