@@ -12,7 +12,7 @@ header:
 
 ## 01-1: Lärmbelastung- und Luftverschmutzung in Marburg  
 ### 01-1-L1
-Bei umfassenden Aufgaben, wie der Beschreibung des Inhalts einer Karte, ist ein fragegeleitetes Vorgehen hilfreich. In diesem Beispiel: Wie ist stellt sich die Luft- und Lärmbelastung in Marburg räumlich dar? Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht knapp und präzise zu schreiben.
+Bei umfassenden Aufgaben, wie der Beschreibung des Inhalts einer Karte, ist ein fragegeleitetes Vorgehen hilfreich. In diesem Beispiel: Wie ist stellt sich die Luft- und Lärmbelastung in Marburg räumlich dar? Ziel ist es einen informativen Text zu verfassen, der den Leser oder die Leserin nicht mit unsortierten Details überfrachtet, sondern Wesentliches in einer durchdachten Textstruktur ausführt und Nichtzielführendes weglässt. Die Verwendung von Fachvokabular ermöglicht es knapp und präzise zu schreiben.
 
 ### 01-1-L2 
 Konzeptionelle Fragen beziehen sich auf methodische Hintergründe eines Mediums, dies können Fragen zur Erhebung, Auswertung und Darstellung der zugrunde liegenden Daten des Mediums sein und der Perspektive, die diesen Prozess prägt. 
