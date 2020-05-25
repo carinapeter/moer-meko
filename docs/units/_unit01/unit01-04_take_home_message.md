@@ -1,5 +1,5 @@
 ---
-title: Aufgaben
+title: Mitzunehmen aus der Aufgabenbearbeitung…
 toc: true
 header:
   image: /assets/images/01-splash.jpg
@@ -8,7 +8,6 @@ header:
 
 ---
 
-# Mitzunehmen aus der Aufgabenbearbeitung…
 
 ## 01-1: Lärmbelastung- und Luftverschmutzung in Marburg  
 ### 01-1-L1
