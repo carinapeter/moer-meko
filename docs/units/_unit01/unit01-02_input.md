@@ -12,9 +12,9 @@ header:
 {% include video id="C0V2zejaTz4" provider="youtube" %}
 
 
-## Kartographie als Bild der Erde
+## Karten als Werkzeug der Raumbeschreibung und Interpretation
 
-Nach allgemeiner Auffassung ist die Karte ein orientiertes, verkleinertes, verebnetes Grundrissbild eines Teils der Erdoberfläche, das die Gesamtheit der für diesen Teil bedeutungsvollen Erscheinungen oder eine beschränkte Auswahl daraus wiedergibt (Bartelme 2005). Lehmann spricht die Probleme, die dieser Definition zugrunde liegen, folgendermaßen an: “Die Karten geben kein Abbild der Wirklichkeit, sondern nur die Möglichkeit, sich die Wirklichkeit vorzustellen [...]. Sie reden eine eigene Sprache, die übersetzt sein will” (Lehmann 1952, S. 73). Integriert man diese Auffassung in eine geographische Definition der Karte, so ist sie:
+Es gibt, wie Sie gerade gesehen haben, viele verschiedene Arten von Karten. Verbindendes Merkmal ist nach allgemeiner Auffassung, dass allen Karten ein orientiertes, verkleinertes, verebnetes Grundrissbild eines Teils der Erdoberfläche oder in weiterem Sinne eines Himmelskörpers oder gar Ausschnitts des Kosmos' sind. Dieses Grundrissbild gibt die Gesamtheit der für diesen Teil bedeutungsvollen Erscheinungen oder eine beschränkte Auswahl daraus wieder (Bartelme 2005). Lehmann spricht die Probleme, die dieser Definition zugrunde liegen, folgendermaßen an: “Die Karten geben kein Abbild der Wirklichkeit, sondern nur die Möglichkeit, sich die Wirklichkeit vorzustellen [...]. Sie reden eine eigene Sprache, die übersetzt sein will” (Lehmann 1952, S. 73). Integriert man diese Auffassung in eine geographische Definition der Karte, so ist sie:
 
 *     ein *Bild* der Erde
 *     eine Darstellung der als *wesentlich aufgefassten* Erscheinungen
@@ -33,6 +33,8 @@ Um diesen Zusammenhang an einem Beispiel zu verdeutlichen, betrachten Sie bitte 
 Diese kann als frühes, idealtypisches Beispiel für die zuvor definierten Eigenschaften einer Karte betrachtet werden. Dargestellt ist die zu diesem Zeitpunkt gültige europäische Wahrnehmung der Welt. Wenige Jahre später wurde mit Kolumbus und seinen Entdeckungsfahrten diese Weltsicht revolutioniert und umfassend korrigiert. 
 
 Hier wird deutlich, wie sehr die Abstraktion von (räumlicher) Wirklichkeit von der Intention des Senders und der verwendeten Kodierung bzw. Rekodierung durch den Empfänger abhängig ist. Monmonier sagt in diesem Kontext: “*that maps, like speeches and paintings, are authored collections of information and also subject to distortions arising from ignorance, greed, ideological blindness, or malice* [...]” (Monmonier 1991). 
+
+Trotz der Einschränkung, dass Karten nicht die Welt, sondern eine Interpretation der Welt zeigen, sind sie ein gutes Werkzeug für die Erschließung von Wirklichkeit. Denn die Zusammenhänge der realen Welt sind in der Regel so komplex, dass sie nur in einer generalisierten Form verständlich darstellbar oder analysierbar sind. 
 
 {% include video id="QBxNinssoOQ" provider="youtube" %}
 
