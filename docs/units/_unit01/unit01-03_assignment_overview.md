@@ -8,7 +8,9 @@ header:
 
 ---
 
-In den Aufgaben üben Sie Atlaskarten kritsich zu reflektieren. Dazu beschäftigen Sie sich zunächst intensiv mit den Karte, Ihrer Aussagen, Darstellungsformen und Datengrundlage. Anschließend suchen Sie Vergleichsdaten, analysieren diese. Auf dieser Grundlage entwickeln Sie abschließend eine eigene Karte.
+
+In den Aufgaben üben Sie Atlaskarten kritsich zu reflektieren. Dazu beschäftigen Sie sich zunächst intensiv mit den Karte, Ihrer Aussagen, Darstellungsformen und Datengrundlage. Sie sollen den Inhalt von Atlaskarten beschreiben und interpretieren, die Datengrundlage analysieren und Vergleichsdaten zu Rate ziehen, um die dargestellte Wahrheit zu reflektieren. Abschließend sollen Sie eine eigene Karte entwickeln, die ein Gegenentwurf zur Atlaskarte sein kann und Ihre eigene Perspektive transportiert.
+
 
 ## Benötigte Materialien für die Aufgaben
 * die Diercke-Atlaskarte "Marburg Luft- und Lärmbelastung" aus den Jahren 1992 und 2002

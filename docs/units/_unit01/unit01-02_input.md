@@ -27,14 +27,14 @@ Um diesen Zusammenhang an einem Beispiel zu verdeutlichen, betrachten Sie bitte 
 </html>
 
 
-//Abbildung 01-01: Weltkarte des Ptolemäus. Die hier gezeigte Weltkarte ist mit den zwölf Winden illustriert und eine der 32 Karten aus der „Cosmographia“ die von Lienhart Holle aus Ulm am 6. Juli 1482 herausgegeben wurde. Dies war die erste gedruckte Kartenausgabe nördlich der Alpen (Lienhart 1482)
-//
+*Abbildung 01-01: Weltkarte des Ptolemäus. Die hier gezeigte Weltkarte ist mit den zwölf Winden illustriert und eine der 32 Karten aus der „Cosmographia“ die von Lienhart Holle aus Ulm am 6. Juli 1482 herausgegeben wurde. Dies war die erste gedruckte Kartenausgabe nördlich der Alpen (Lienhart 1482)*
 
-Diese kann als frühes, idealtypisches Beispiel für die zuvor definierten Eigenschaften einer Karte betrachtet werden. Dargestellt ist die zu diesem Zeitpunkt gültige europäische Wahrnehmung der Welt. Wenige Jahre später wurde mit Kolumbus und seinen Entdeckungsfahrten diese Weltsicht revolutioniert und umfassend korrigiert. 
 
-Hier wird deutlich, wie sehr die Abstraktion von (räumlicher) Wirklichkeit von der Intention des Senders und der verwendeten Kodierung bzw. Rekodierung durch den Empfänger abhängig ist. Monmonier sagt in diesem Kontext: “*that maps, like speeches and paintings, are authored collections of information and also subject to distortions arising from ignorance, greed, ideological blindness, or malice* [...]” (Monmonier 1991). 
+Diese kann als frühes, idealtypisches Beispiel für die zuvor definierten Eigenschaften einer Karte betrachtet werden. Dargestellt ist die zu diesem Zeitpunkt gültige europäische Wahrnehmung der Welt. Wenige Jahre später wurde mit Kolumbus und seinen Entdeckungsfahrten diese Weltsicht revolutioniert und umfassend korrigiert.
 
-Trotz der Einschränkung, dass Karten nicht die Welt, sondern eine Interpretation der Welt zeigen, sind sie ein gutes Werkzeug für die Erschließung von Wirklichkeit. Denn die Zusammenhänge der realen Welt sind in der Regel so komplex, dass sie nur in einer generalisierten Form verständlich darstellbar oder analysierbar sind. 
+Hier wird deutlich, wie sehr die Abstraktion von (räumlicher) Wirklichkeit von der Intention des Senders und der verwendeten Kodierung bzw. Rekodierung durch den Empfänger abhängig ist. Monmonier sagt in diesem Kontext: “*that maps, like speeches and paintings, are authored collections of information and also subject to distortions arising from ignorance, greed, ideological blindness, or malice* [...]” (Monmonier 1991).
+
+Trotz der Einschränkung, dass Karten nicht die Welt, sondern eine Interpretation der Welt zeigen, sind sie ein gutes Werkzeug für die Erschließung von Wirklichkeit. Denn die Zusammenhänge der realen Welt sind in der Regel so komplex, dass sie nur in einer generalisierten Form verständlich darstellbar oder analysierbar sind.
 
 {% include video id="QBxNinssoOQ" provider="youtube" %}
 
@@ -52,4 +52,4 @@ Definieren wir also Geographie wie oben so benötigen wir Werkzeuge, die nach de
 
 ### Zusatzmaterial zur Aufgabe 01-3 L1:
 
-Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179). 
+Eine Einführung in wichtige kartographische Darstellungsmethoden finden Sie auf dieser Seite des [Leibniz-Institut für Länderkunde](https://www.nationalatlas.de/?page_id=179).
